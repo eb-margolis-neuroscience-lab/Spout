@@ -1,0 +1,6 @@
+## Firmware installation  
+ 1. If you don't already have it, install the [Arduino IDE](https://www.arduino.cc/en/software) which will upload the compiled code to the device. then follow the [instructions](https://learn.adafruit.com/adafruit-esp32-feather-v2/arduino-ide-setup) on the Adafruit website to install the required libraries for the Huzzah32. 
+ 2. The real time clock (RTC) will hold the date and time so that data can be aligned with time of day. Follow [these instructions](https://learn.adafruit.com/adafruit-pcf8523-real-time-clock/rtc-with-arduino), except the wiring part, to make prepare for setting the RTC. 
+ 3. To set the RTC, connect the Spout device to the computer and flash [RTC_PCF8523](https://github.com/eb-margolis-neuroscience-lab/lick-o-meter-construction-guide/blob/main/pcf8523.ino) onto it. The clock will be set based on the time and date on the computer. To check that the clock is set and functioning open the Arduino IDE serial monitor with the device still connected to the computer. 
+4. Use the Arduino IDE to flash [SpoutCollect](https://github.com/eb-margolis-neuroscience-lab/lick-o-meter-construction-guide/blob/main/SpoutCollectOct2022.ino) onto the device. 
+5. Disconnect the device from the computer and insert a micro SD card. 
