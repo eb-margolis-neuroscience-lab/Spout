@@ -8,6 +8,8 @@
 
 ## Helpful tutorials for Arduino IDE and C++: 
 
-[Arduino IDE basics](https://docs.arduino.cc/software/ide-v1/tutorials/arduino-ide-v1-basics)
-[Arduino IDE intro tutorial](https://docs.arduino.cc/learn/starting-guide/the-arduino-software-ide) -- This tutorial allows you to learn how to navigate Arduino IDE by creating your own blink program. This is not a needed step for using Spout, it is just a helpful resource for people that are new to Arduino and programming. 
-[Introduction to C++ on Arduino](https://www.digikey.com/en/maker/blogs/2020/the-basics-of-c-on-an-arduino-part-1-variables)
+1. [Arduino IDE basics](https://docs.arduino.cc/software/ide-v1/tutorials/arduino-ide-v1-basics)
+
+2. [Arduino IDE intro tutorial](https://docs.arduino.cc/learn/starting-guide/the-arduino-software-ide) -- This tutorial allows you to learn how to navigate Arduino IDE by creating your own blink program. This is not a needed step for using Spout, it is just a helpful resource for people that are new to Arduino and programming. 
+
+3. [Introduction to C++ on Arduino](https://www.digikey.com/en/maker/blogs/2020/the-basics-of-c-on-an-arduino-part-1-variables)
