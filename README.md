@@ -11,7 +11,7 @@ The contruction guide describes how to build the Spout device. It includes links
 
 <img src="./images/large cage front.jpg" alt="drawing" height="175"/> <img src="./images/Large cage side angle.jpg" alt="drawing" height="175"/> <img src="./images/large cage side angle 2.jpg" alt="drawing" height="175"/>
 
-## [Arduino Code](https://github.com/eb-margolis-neuroscience-lab/Spout/tree/main/arduino%20code)
+## [Code for device](https://github.com/eb-margolis-neuroscience-lab/Spout/tree/main/arduino%20code)
 
 The arduino code folder includes the real time clock code, which must be flashed onto the device to set the coin battery clock prior to the SpoutCollect code, and the most updated C++ file (SpoutCollect.ino) that tells the device how to collect data. The user must download these files onto their computer, and then starting with pcf8523, the user uploads the two files onto the Spout device that is connected to the computer with a micro USB cable. In the arduino code folder there are links to adruino tutorials to help people that do not have much programming experience. 
 
