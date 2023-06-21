@@ -39,9 +39,9 @@ Use 2 large screws to secure the neck of the case to the hook so that Spout can 
 
 3. Solder four wires to their respective pins on the Adalogger feather board. The wires are soldered to the adalogger board, but the Huzzah32 board has the pin labels. Solder the wires such that wire 1 is attached to the ground pin (**GND**) wire 2 is attached to power pin (**3V**), and the two input signal wires are attached to pins **A0** and **A7**. 
 
-<img src="./images/licko_wiring_fixed.png" alt="drawing" width="300"/>
+<img src="./images/wiring_fixed_2.png" alt="drawing" width="300"/>
 
-4. Solder the other ends of the four wires to their pins on the **output** side of the Capacitive touch breakout board. **3V** to **VDO**, **GND** to **GND**, **A7** to pin **1**, **A0** to pin **4**. 
+4. Solder the other ends of the four wires to their pins on the **output** side of the Capacitive touch breakout board. **3V** to **VDO**, **GND** to **GND**, **A7** to pin **4**, **A0** to pin **1**. 
 
 ### How to modify the wires to fit your metal bottle spouts:
  
