@@ -70,7 +70,7 @@ Use 2 large screws to secure the neck of the case to the hook so that Spout can 
 
 6. Stack the Adalogger board on top of the Huzzah32 board, lining them up by the header pins. 
 
-7. Insert the coin cell battery into the Adalogger feather board. Note: This battery powers the real time clock (RTC), not the device.
+7. Insert the coin cell battery into the Adalogger feather board. Note: This battery powers the real time clock (RTC), not the device. This battery is expected to last at least a year, if not longer, but if the date on your Spout files is incorrect, the battery is likely be dead. 
 
 <img src="./images/Body_w_coin_battery.jpg" alt="drawing" width="200"/>
 
